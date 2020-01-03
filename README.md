@@ -1,1 +1,3 @@
 # ProjectAlpha
+
+print "hello world";
